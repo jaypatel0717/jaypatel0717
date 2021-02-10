@@ -3,8 +3,8 @@
 ### I'm a software developer!
 
 - 🌱 I’m currently learning full stack development 🤣
-- 🥅 2020 Goals: Develop full stack projects as many as I can
-- ⚡ Fun fact: I like to learn new technology
+- 🥅 2020 Goals: Develop full stack projects as many as I can.
+- ⚡ Fun fact: I like to learn new technologies.
 
 ### Connect with me:
 
