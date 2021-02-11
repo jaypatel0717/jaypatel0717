@@ -2,18 +2,19 @@
 
 ### I'm a software developer!
 
-- 🌱 I’m currently learning full stack development 🤣
+- 📕 I’m currently learning full stack development. React, NodeJS and MongoDB 🤣
 - 🥅 2020 Goals: Develop full stack projects as many as I can.
 - ⚡ Fun fact: I like to learn new technologies.
+ 
 
-### Connect with me:
+### Connect with me :
 
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools :
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
