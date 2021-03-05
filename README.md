@@ -3,7 +3,7 @@
 ### I'm a software developer!
 
 - 📕 I’m currently learning full stack development. React, NodeJS and MongoDB 🤣
-- 🥅 2020 Goals: Develop full stack projects as many as I can.
+- 🥅 2021 Goals: Develop full stack projects as many as I can.
 - ⚡ Fun fact: I like to learn new technologies.
  
 
